@@ -63,7 +63,7 @@ We have currently implemented a simpler version of the Home Security System usin
 
  <hr>
  
- <h3>HARDWARE ASSEMBLY</h3>
+ <h3>3. HARDWARE ASSEMBLY</h3>
  <p>
  The following connections were done.
 <ul>
@@ -101,7 +101,7 @@ We have currently implemented a simpler version of the Home Security System usin
 
 
  <hr>
- <h3>ALGORITHM AND CODE</h3>
+ <h3>4. ALGORITHM AND CODE</h3>
 <h4>Algorithm</h4><br>
  <p>The algorithm implemented on the working of the hardware is pretty simple and straight-forward. The user has to connect the <b>HC05 Bluetooth Module</b> with the <b>Android Meets Robot App</b> via Bluetooth using a smartphone. The '<b>key phrase</b>' has to be spoken. The App then forwards the voice data to the <b>HC05 Bluetooth Module</b>. Then it is forwarded to the <b>Arduino UNO R3 Board</b>. The program burned to the <b>Arduino UNO R3</b> decides if the data matches the '<b>key phrase</b>' and generates the output accordingly.
 </p><br>
@@ -207,7 +207,7 @@ Initializing the LCD to display something after the device is powered on and def
 
 
  <hr>
- <h3>WORKING DEMONSTRATION</h3>
+ <h3>5. WORKING DEMONSTRATION</h3>
  <p>
  The working demonstration video is uploaded, named as <b>Demonstration.mp4</b>.
  <br>
@@ -224,7 +224,7 @@ Initializing the LCD to display something after the device is powered on and def
 
 
  <hr>
- <h3>FUTURE SCOPE</h3>
+ <h3>6. FUTURE SCOPE</h3>
  <p>
  This can be actively implemented in Smart Home Security solutions after being improved with a Machine Learning model design. The Arduino cannot be re-programmed unless a USB is inserted to it and burned accordingly after being fitted into a working device. The bluetooth discovery of the HC05 can be programmed and hidden; providing access to only one client once paired. Moreover, this is cheaper than other alternatives available in the market. Approximate expense of this project was around Rs.800 only.
  </p>
