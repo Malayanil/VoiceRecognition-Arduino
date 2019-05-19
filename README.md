@@ -79,8 +79,8 @@ We have currently implemented a simpler version of the Home Security System usin
  <li>Led3 Negative to GND</li>
  <li>Led4 Positive to Arduino Pin 10</li>
  <li>Led4 Negative to GND</li>
- <li>LCD VSS to Arduino 5V</li>
- <li>LCD VDD to Arduino GND</li>
+ <li>LCD VSS to Arduino GND</li>
+ <li>LCD VDD to Arduino 5V</li>
  <li>LCD RS to Arduino 12</li>
  <li>LCD E to Arduino 11</li>
  <li>LCD V0 to Arduino 6</li>
