@@ -81,17 +81,17 @@ We have currently implemented a simpler version of the Home Security System usin
  <li>Led4 Negative to GND</li>
  <li>LCD VSS to Arduino GND</li>
  <li>LCD VDD to Arduino 5V</li>
- <li>LCD RS to Arduino 12</li>
- <li>LCD E to Arduino 11</li>
- <li>LCD V0 to Arduino 6</li>
+ <li>LCD RS to Arduino Pin 12</li>
+ <li>LCD E to Arduino Pin 11</li>
+ <li>LCD V0 to Arduino Pin 6</li>
  <li>LCD A to Arduino 5V</li>
  <li>LCD K to Arduino GND</li>
  <li>LCD RW to Arduino GND</li>
  <li>LCD D0 to D3 Arduino GND</li>
- <li>LCD D4 to Arduino 5</li>
- <li>LCD D5 to Arduino 4</li>
- <li>LCD D6 to Arduino 3</li>
- <li>LCD D7 to Arduino 2</li>
+ <li>LCD D4 to Arduino Pin 5</li>
+ <li>LCD D5 to Arduino Pin 4</li>
+ <li>LCD D6 to Arduino Pin 3</li>
+ <li>LCD D7 to Arduino Pin 2</li>
 </ul>
  </p>
  
